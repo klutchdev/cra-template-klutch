@@ -1,0 +1,33 @@
+{
+  "name": "cra-template-klutch",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Basic template with react router v6",
+  "author": {
+    "name": "Klutch",
+    "email": "klutchdevelopment@gmail.com"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "klutch",
+    "router",
+    "2022"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/klutchdev/cra-template-klutch.git",
+    "directory": "packages/cra-template-klutch"
+  },
+  "bugs": {
+    "url": "https://github.com/klutchdev/cra-template-klutch/issues.git"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

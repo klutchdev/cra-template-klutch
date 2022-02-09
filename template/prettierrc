@@ -1,0 +1,5 @@
+{
+  "trailingComma": "all",
+  "printWidth": 70,
+  "semi": true
+}
