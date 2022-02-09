@@ -9,15 +9,17 @@ const Counter = () => {
     setCount((prev) => {
       setCount(prev + 1);
       setPrevCount(prev);
-      useTitle(`Count: ${count}`);
     });
   };
+
+  useTitle(`Count: ${count}`);
 
   return (
     <div>
       <h3>Current count: {count}</h3>
       <h3>Previous count: {prevCount}</h3>
-      <button onClick={handleClick}>Click me</button>
+      <button onClick={handleClick}>Increase</button>
+      <button onClick={() => setCount(0)}>Reset</button>
     </div>
   );
 };
