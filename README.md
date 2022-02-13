@@ -13,7 +13,7 @@
 ### npx
 
 ```sh
-npx create-react-app myAppName --template klutch
+npx create-react-app app-name --template klutch
 ```
 
 ### npm commands
