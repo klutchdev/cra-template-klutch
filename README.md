@@ -1,15 +1,19 @@
 # Klutch CRA Template
 
-[![Version](https://img.shields.io/npm/v/cra-template-klutch-dev.svg?style=flat-square)](www.npmjs.com/package/cra-template-klutch)
-
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.com)
+
+[![npm](https://img.shields.io/npm/v/cra-template-klutch?style=for-the-badge)](https://www.npmjs.com/package/cra-template-klutch)
+
+[![GitHub issues](https://img.shields.io/github/issues/klutchdev/cra-template-klutch?style=for-the-badge)](https://github.com/klutchdev/cra-template-klutch/issues)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/Klutchdev/cra-template-klutch/graphs/commit-activity)
 
 ## Usage
 
 ### npx
 
 ```sh
-npx create-react-app myAppName --template klutch
+npx create-react-app app-name --template klutch
 ```
 
 ### npm commands
@@ -28,7 +32,6 @@ npm run analyze
 npm run clean
 ```
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Klutchdev/cra-template-klutch/graphs/commit-activity)
 
 ## Includes
 
