@@ -7,9 +7,9 @@
     },
     "scripts": {
       "build": "react-scripts build",
-      "clean": "rm -rf node_modules package-lock.json && npm i",
-      "analyze": "source-map-explorer 'build/static/js/*.js'",
-      "start": "react-scripts start"
+      "start": "react-scripts start",
+      "clean": "rm -rf node_modules build package-lock.json && npm i",
+      "analyze": "source-map-explorer 'build/static/js/*.js'"
     },
     "eslintConfig": {
       "extends": [
